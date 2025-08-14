@@ -4,9 +4,10 @@ import { MetadataRoute } from 'next'
 async function getProjects() {
   // Example project slugs
   return [
-    { slug: 'website-redesign', updatedAt: '2025-08-01' },
-    { slug: 'branding-project', updatedAt: '2025-07-20' },
-    { slug: 'mobile-app-design', updatedAt: '2025-07-05' },
+    { slug: 'decorewala', updatedAt: '2025-07-01' },
+    { slug: 'misan', updatedAt: '2025-07-4' },
+    { slug: 'vinayakartplace', updatedAt: '2025-07-05' },
+    { slug: 'rodiwal', updatedAt: '2025-07-03' },
   ]
 }
 
