@@ -3,7 +3,7 @@ import ClientLayout from "@/components/ClientLayout";
 import type { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://yourdomain.com"),
+  metadataBase: new URL("https://nickdstudio.online"),
   title: {
     // absolute: "Nick D Studio - Digital Marketing & Web Development Agency",
     default: "Nick D Studio - Digital Marketing & Web Development Agency",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     "ecommerce marketing",
     "ecommerce seo services"
   ],
-  authors: [{ name: "Nick", url: "https://yourdomain.com" }],
+  authors: [{ name: "Nick", url: "https://nickdstudio.online" }],
   creator: "Nick D Studio",
   publisher: "Nick D Studio",
   formatDetection: {
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://yourdomain.com",
+    url: "https://nickdstudio.online",
     title: "Nick D Studio - Expert Digital Marketing & Web Development",
     description:
       "Boost your online presence with Nick D Studio’s tailored digital marketing, SEO, and web development services.",
@@ -94,7 +94,7 @@ export const metadata: Metadata = {
   },
   category: "Business",
   alternates: {
-    canonical: "https://yourdomain.com",
+    canonical: "https://nickdstudio.online",
   },
   icons: {
     icon: "/favicon.ico",
@@ -105,8 +105,8 @@ export const metadata: Metadata = {
       "@context": "https://schema.org",
       "@type": "Organization",
       name: "Nick D Studio",
-      url: "https://yourdomain.com",
-      logo: "https://yourdomain.com/logo.png",
+      url: "https://nickdstudio.online",
+      logo: "https://nickdstudio.online/logo.png",
       contactPoint: {
         "@type": "ContactPoint",
         telephone: "+1-555-123-4567",

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nickdstudio.com/sitemap.xml
+Sitemap: https://nickdstudio.online/sitemap.xml
