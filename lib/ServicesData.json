@@ -1,0 +1,18 @@
+{
+    "Services": [
+        {
+          "active": true,
+          "hs": "web. web. web",
+          "heading": "Web Development",
+          "description": "From innovative design to powerful SEO – Technical Solutions builds fast, responsive websites that attract traffic and grow your business.",
+          "tags": ["E-Commerce Solutions", "Landing Pages", "..."]
+        },
+        {
+          "active": false, 
+          "hs": "ads. ads. ads",
+          "heading": "Strategic Marketing",
+          "description": "Boost your online presence with strategic Paid Advertising – reach your audience, increase traffic, and grow your brand faster.",
+          "tags": ["Facebook Ads", "Google Ads"]
+        }
+    ]
+}

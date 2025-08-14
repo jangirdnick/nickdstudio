@@ -8,13 +8,13 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --font-[f1]: var(--font-geist-sans) !important;
   --font-mono: var(--font-geist-mono);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #000;
     --foreground: #ededed;
   }
 }
@@ -24,3 +24,61 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.clip-rounded-bar {
+  clip-path: polygon(
+    10% 0, 
+    90% 0, 
+    100% 50%, 
+    90% 100%, 
+    10% 100%, 
+    0% 50%
+  );
+}
+
+
+@font-face {
+  font-family: f1;
+  src: url(../public/font/Geist/Geist-VariableFont_wght.ttf);
+}
+
+
+@font-face {
+  font-family: f2;
+  src: url(../public/font/MuseoModerno/MuseoModerno-VariableFont_wght.ttf);
+}
+
+
+@font-face {
+  font-family: f3;
+  src: url(../public/font/Baumans/Baumans-Regular.ttf);
+}
+
+@font-face {
+  font-family: f4;
+  src: url(../public/font/Geist_Mono/GeistMono-VariableFont_wght.ttf);
+}
+
+.pixelBackground{
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    pointer-events: none;
+
+.column{
+    width: 5vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    .block{
+        width: 100%;
+        height: 5vw;
+        background-color: #ff6a00;
+    }
+  }
+}
+
+
+

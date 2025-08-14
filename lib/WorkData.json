@@ -1,0 +1,390 @@
+{
+  "Work": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/decorewala_hbnsdv.png",
+        "alt": "Decorewala home decor eCommerce UI showcasing premium furniture and interiors"
+      },
+      "title": "Decorewala",
+      "tag": ["development", "ui/ux", "FB Ads"],
+      "targetLink": "/projects/decorewala",
+      "link": "https://decorewala.com/"
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/misan_fjaoph.png",
+        "alt": "Misan fashion eCommerce website design with clean minimalist UI"
+      },
+      "title": "Misan",
+      "tag": ["development", "ui/ux", "FB Ads"],
+      "targetLink": "/projects/misan",
+      "link": "https://misan.in"
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/vinayakartplace_r4pylx.png",
+        "alt": "Vinayakartplace online store homepage with premium classic layout"
+      },
+      "title": "Vinayakartplace",
+      "tag": ["development", "ui/ux", "FB Ads"],
+      "targetLink": "/projects/vinayakartplace",
+      "link": "https://vinayakartplace.com"
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015110/rodiwal_jz4wog.png",
+        "alt": "Rodiwal furniture website interface highlighting solid wood collections"
+      },
+      "title": "Rodiwal",
+      "tag": ["development", "ui/ux", "FB Ads"],
+      "targetLink": "/projects/rodiwal",
+      "link": "https://rodiwal.in"
+    }
+  ],
+  "AllWork": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/decorewala_hbnsdv.png",
+        "alt": "Decorewala home decor online store interface with premium furniture layout"
+      },
+      "title": "Decorewala",
+      "tag": ["development", "ui/ux", "FB Ads"],
+      "overview": "Integrated Google Search Console for site indexing and performance tracking. Performed complete on-page, off-page, and product SEO using RankMath. Optimized all website and product images using WebP and lazy loading for faster performance. Developed the website on WordPress using a premium theme and Elementor for custom page building. Configured and customized WooCommerce for smooth product listing and order processing. Installed and set up essential plugins for SEO, performance, security, and user experience. Implemented custom code where needed to enhance design and functionality. Managed and optimized targeted Facebook Ads campaigns for traffic and conversions. Handled ongoing website maintenance, plugin updates, and WordPress management.",
+      "targetLink": "/projects/decorewala",
+      "link": "https://decorewala.com/",
+      "date": "February 26, 2025",
+      "location": "Sardarshahar ( Churu )",
+      "completeWork": {
+        "title": "Complete Work",
+        "timeDate": "35 Day",
+        "tag": ["SEO Configuration", "Image Optimization", "Campaign Execution", "Advanced UI/UX features"]
+      },
+      "discovery": {
+        "title": "Discovery",
+        "timeDate": "7 Hrs",
+        "tag": ["Understanding Business Goals", "Brand & Design Direction", "Audience Research"]
+      },
+      "strategicManagement": {
+        "title": "Core Strategic",
+        "timeDate": "10 Hrs",
+        "tag": ["SEO Strategy", "Ads Funnel Planning", "Performance Optimization"]
+      },
+      "decptopImage": [
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/decorewala_hbnsdv.png",
+          "alt": "Decorewala homepage hero showcasing modern home decor and furniture"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919344/IDDEC2_ukhrcs.png",
+          "alt": "Decorewala category grid featuring premium home decor products"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919346/IDDEC3_sgid9o.png",
+          "alt": "Decorewala product listing page with optimized images and clean UX"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919343/IDDEC4_fuf9xu.png",
+          "alt": "Decorewala product detail page with furniture specifications and gallery"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919353/IDDEC5_heeuju.png",
+          "alt": "Decorewala WooCommerce cart and checkout flow UI"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919352/IDDEC6_hpbbtc.png",
+          "alt": "Decorewala responsive WordPress Elementor design preview"
+        }
+      ],
+      "responsiveImage": [
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647766/IRDEC1_ninpy7.jpg",
+          "alt": "Decorewala mobile homepage with hero banner and categories"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647766/IRDEC2_beepjl.jpg",
+          "alt": "Decorewala mobile product detail screen with image gallery"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647765/IRDEC3_vhi4lr.jpg",
+          "alt": "Decorewala mobile category page with filter options"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647766/IRDEC4_a37tjl.jpg",
+          "alt": "Decorewala mobile UI showing clean navigation and sections"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647766/IRDEC5_xtcsgl.jpg",
+          "alt": "Decorewala mobile cart and checkout experience"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647768/IRDEC6_hvuj2o.jpg",
+          "alt": "Decorewala mobile menu and responsive navigation UX"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/misan_fjaoph.png",
+        "alt": "Misan fashion eCommerce website homepage with minimalist UI"
+      },
+      "title": "Misan",
+      "tag": ["development", "ui/ux", "FB Ads"],
+      "overview": "For Misan Es, we delivered a full-scale eCommerce solution designed for performance, visibility, and growth. Starting with Google Search Console integration, we ensured proper indexing and real-time tracking of the site’s search health. The website was crafted using WordPress, paired with a premium theme and Elementor for custom, responsive design. WooCommerce was configured to handle product listings, cart functionality, and order flow with ease. We also implemented and fine-tuned multiple plugins for security, speed, SEO, and user engagement. On the marketing front, we executed a robust SEO strategy—including on-page optimization, off-page link building, and detailed product-level SEO. All visuals were image-optimized to enhance load times and user experience. To fuel brand reach and conversions, we also planned and managed high-performing Facebook Ads campaigns, targeting key customer segments with compelling creatives and audience-specific messaging. Our team ensured end-to-end support, including custom code enhancements, plugin management, and continuous WordPress maintenance to keep the site running smoothly.",
+      "targetLink": "/projects/misan",
+      "link": "https://misan.in",
+      "date": "December 18, 2024",
+      "location": "Sardarshahar ( Churu )",
+      "completeWork": {
+        "title": "Complete Work",
+        "timeDate": "20 Day",
+        "tag": ["SEO Configuration", "Image Optimization", "Campaign Execution", "Advanced UI/UX features"]
+      },
+      "discovery": {
+        "title": "Discovery",
+        "timeDate": "3 Hrs",
+        "tag": ["Understanding Business Goals", "Brand & Design Direction", "Audience Research"]
+      },
+      "strategicManagement": {
+        "title": "Core Strategic",
+        "timeDate": "7 Hrs",
+        "tag": ["SEO Strategy", "Ads Funnel Planning", "Performance Optimization"]
+      },
+      "decptopImage": [
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/misan_fjaoph.png",
+          "alt": "Misan homepage hero highlighting apparel and accessories"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919353/IDMIS2_wmvo9v.png",
+          "alt": "Misan category page for fashion clothing and accessories"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919351/IDMIS3_peutnh.png",
+          "alt": "Misan product grid with optimized images and quick view"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919349/IDMIS4_yevtwv.png",
+          "alt": "Misan product detail page with size options and gallery"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919358/IDMIS5_mxjmbw.png",
+          "alt": "Misan WooCommerce cart and checkout interface"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919353/IDMIS6_jnyslb.png",
+          "alt": "Misan Elementor section with featured banners"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919354/IDMIS7_x7weob.png",
+          "alt": "Misan promotional hero banner for seasonal sale"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919361/IDMIS8_jk2sry.png",
+          "alt": "Misan responsive WordPress layout preview across devices"
+        }
+      ],
+      "responsiveImage": [
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647769/IRMIS1_cy2izw.jpg",
+          "alt": "Misan mobile homepage with hero and categories"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647768/IRMIS2_zq67gv.jpg",
+          "alt": "Misan mobile product list with filters"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647765/IRMIS3_nmbu2c.jpg",
+          "alt": "Misan mobile product detail with image gallery"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647768/IRMIS4_qmdjfc.jpg",
+          "alt": "Misan mobile cart and order summary"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647768/IRMIS5_c0efwn.jpg",
+          "alt": "Misan mobile checkout address and payment steps"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647767/IRMIS6_vbrrla.jpg",
+          "alt": "Misan mobile navigation menu UX"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/vinayakartplace_r4pylx.png",
+        "alt": "Vinayakartplace premium eCommerce website with classic design"
+      },
+      "title": "Vinayakartplace",
+      "tag": ["development", "ui/ux", "FB Ads"],
+      "overview": "Vinayakartplace is an eCommerce platform built to deliver a smooth shopping experience with a classic and premium design aesthetic. Developed using WordPress with a premium theme and Elementor, the site features a clean, elegant layout tailored for user engagement. WooCommerce was set up for seamless product and order management, and essential plugins were configured for performance, SEO, and security. We carried out complete SEO implementation including on-page, off-page, and product-level optimization using RankMath. High-resolution images were compressed and lazy-loaded to ensure fast loading times. Google Search Console was integrated for indexing and performance tracking. To drive traffic and conversions, we launched targeted Facebook Ads campaigns with audience-specific strategies. Custom code enhancements were also applied to fine-tune the site's functionality, and ongoing WordPress management was handled to keep the platform optimized and up to date.",
+      "targetLink": "/projects/vinayakartplace",
+      "link": "https://vinayakartplace.com",
+      "date": "April 20, 2025",
+      "location": "Sardarshahar ( Churu )",
+      "completeWork": {
+        "title": "Complete Work",
+        "timeDate": "20 Day",
+        "tag": ["SEO Configuration", "Image Optimization", "Campaign Execution", "Advanced UI/UX features"]
+      },
+      "discovery": {
+        "title": "Discovery",
+        "timeDate": "4 Hrs",
+        "tag": ["Understanding Business Goals", "Brand & Design Direction", "Audience Research"]
+      },
+      "strategicManagement": {
+        "title": "Core Strategic",
+        "timeDate": "7 Hrs",
+        "tag": ["SEO Strategy", "Ads Funnel Planning", "Performance Optimization"]
+      },
+      "decptopImage": [
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/vinayakartplace_r4pylx.png",
+          "alt": "Vinayakartplace homepage hero with classic premium layout"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919363/IDVIN2_hdiph4.png",
+          "alt": "Vinayakartplace category grid for curated products"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919363/IDVIN3_mmk6uz.png",
+          "alt": "Vinayakartplace product listing with clean UI and fast images"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919343/IDVIN4_hwd6fd.png",
+          "alt": "Vinayakartplace product detail page with gallery and specifications"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919348/IDVIN5_qaibk7.png",
+          "alt": "Vinayakartplace WooCommerce cart and checkout UI"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919345/IDVIN6_b5bjkq.png",
+          "alt": "Vinayakartplace Elementor sections with featured collections"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919346/IDVIN7_wqunts.png",
+          "alt": "Vinayakartplace responsive WordPress preview across devices"
+        }
+      ],
+      "responsiveImage": [
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647772/IRVIY1_kdxv7n.jpg",
+          "alt": "Vinayakartplace mobile homepage hero and categories"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY2_bo3ljp.jpg",
+          "alt": "Vinayakartplace mobile product grid with filters"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY3_kbcgty.jpg",
+          "alt": "Vinayakartplace mobile product detail with image slider"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY4_rvtwjh.jpg",
+          "alt": "Vinayakartplace mobile cart and order flow"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY5_frmrjw.jpg",
+          "alt": "Vinayakartplace mobile checkout steps"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY6_tgnzc1.jpg",
+          "alt": "Vinayakartplace mobile navigation and menu"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015110/rodiwal_jz4wog.png",
+        "alt": "Rodiwal wooden furniture eCommerce website with premium look"
+      },
+      "title": "Rodiwal",
+      "tag": ["development", "ui/ux", "FB Ads"],
+      "overview": "Rodiwal is a furniture-focused eCommerce website developed on WordPress with a simple yet highly functional design that delivers a premium user experience. While the layout remains minimal and user-friendly, we incorporated advanced elements like embedded videos to showcase product information and educate customers. Built using a premium theme and Elementor, the site features custom functionalities that elevate both design and usability. WooCommerce was implemented for full eCommerce capabilities, and several plugins were configured for performance, SEO, security, and enhanced interactivity. We performed complete SEO (on-page, off-page, and product-level), optimized all images and media files, and integrated Google Search Console for monitoring. Facebook Ads campaigns were also launched to generate traffic and conversions. Additionally, major custom changes were made across the site to tailor the platform specifically to Rodiwal’s branding and content strategy, ensuring a smooth and informative shopping experience.",
+      "targetLink": "/projects/rodiwal",
+      "link": "https://rodiwal.in",
+      "date": "Jun 5, 2025",
+      "location": "Sardarshahar ( Churu )",
+      "completeWork": {
+        "title": "Complete Work",
+        "timeDate": "40 Day",
+        "tag": ["SEO Configuration", "Image Optimization", "Campaign Execution", "Advanced UI/UX features"]
+      },
+      "discovery": {
+        "title": "Discovery",
+        "timeDate": "9 Hrs",
+        "tag": ["Understanding Business Goals", "Brand & Design Direction", "Audience Research"]
+      },
+      "strategicManagement": {
+        "title": "Core Strategic",
+        "timeDate": "10 Hrs",
+        "tag": ["SEO Strategy", "Ads Funnel Planning", "Performance Optimization"]
+      },
+      "decptopImage": [
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015110/rodiwal_jz4wog.png",
+          "alt": "Rodiwal homepage hero featuring solid wood furniture"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919361/IDROD2_jvuqs6.png",
+          "alt": "Rodiwal category page for wooden furniture collections"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919358/IDROD3_pafm03.png",
+          "alt": "Rodiwal product listing grid with optimized WebP images"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919357/IDROD4_dzq2hi.png",
+          "alt": "Rodiwal product detail page with embedded product video"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919358/IDROD5_tozizj.png",
+          "alt": "Rodiwal WooCommerce cart and checkout interface"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919365/IDROD6_zdzotv.png",
+          "alt": "Rodiwal Elementor sections with featured furniture"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919361/IDROD7_jyretd.png",
+          "alt": "Rodiwal homepage promotional banner and offers"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919363/IDROD8_tudj19.png",
+          "alt": "Rodiwal responsive WordPress layout across devices"
+        }
+      ],
+      "responsiveImage": [
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647771/IRROD2_ra99fc.jpg",
+          "alt": "Rodiwal mobile product list with filter options"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647771/IRROD3_pmds1b.jpg",
+          "alt": "Rodiwal mobile product detail with gallery"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647771/IRROD4_imxz7e.jpg",
+          "alt": "Rodiwal mobile cart and order summary"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647771/IRROD5_q3ea3q.jpg",
+          "alt": "Rodiwal mobile checkout payment step"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647772/IRROD6_j3n1v6.jpg",
+          "alt": "Rodiwal mobile navigation menu UI"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647771/IRROD7_v5ekpc.jpg",
+          "alt": "Rodiwal mobile collection showcase"
+        },
+        {
+          "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647769/IRROD1_ae3um1.jpg",
+          "alt": "Rodiwal mobile homepage with hero and categories"
+        }
+      ]
+    }
+  ]
+}
