@@ -1,48 +1,68 @@
 import { MetadataRoute } from 'next'
 
-export default function sitemap(): MetadataRoute.Sitemap {
+// This is just an example — replace it with your real DB/CMS fetch
+async function getProjects() {
+  // Example project slugs
+  return [
+    { slug: 'website-redesign', updatedAt: '2025-08-01' },
+    { slug: 'branding-project', updatedAt: '2025-07-20' },
+    { slug: 'mobile-app-design', updatedAt: '2025-07-05' },
+  ]
+}
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const baseUrl = 'https://nickdstudio.online'
+
+  // Fetch dynamic projects
+  const projects = await getProjects()
+
   return [
     {
-      url: 'https://nickdstudio.online',
+      url: `${baseUrl}`,
       lastModified: new Date(),
-      changeFrequency: 'yearly',
+      changeFrequency: 'yearly' as const,
       priority: 1,
     },
     {
-      url: 'https://nickdstudio.online/services',
+      url: `${baseUrl}/services`,
       lastModified: new Date(),
-      changeFrequency: 'monthly',
+      changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: 'https://nickdstudio.online/about',
+      url: `${baseUrl}/about`,
       lastModified: new Date(),
-      changeFrequency: 'yearly',
+      changeFrequency: 'yearly' as const,
       priority: 0.5,
     },
     {
-      url: 'https://nickdstudio.online/contact',
+      url: `${baseUrl}/contact`,
       lastModified: new Date(),
-      changeFrequency: 'yearly',
+      changeFrequency: 'yearly' as const,
       priority: 0.5,
     },
     {
-      url: 'https://nickdstudio.online/privacy-policy',
+      url: `${baseUrl}/privacy-policy`,
       lastModified: new Date(),
-      changeFrequency: 'yearly',
+      changeFrequency: 'yearly' as const,
       priority: 0.5,
     },
     {
-      url: 'https://nickdstudio.online/projects',
+      url: `${baseUrl}/projects`,
       lastModified: new Date(),
-      changeFrequency: 'yearly',
+      changeFrequency: 'yearly' as const,
       priority: 0.5,
     },
     {
-      url: 'https://nickdstudio.online/terms-conditions',
+      url: `${baseUrl}/terms-conditions`,
       lastModified: new Date(),
-      changeFrequency: 'yearly',
-      priority: 0.5,
+      changeFrequency: 'yearly'
     },
-  ]
+   ...projects.map((project) => ({
+    url: `${baseUrl}/projects/${project.slug}`,
+    lastModified: new Date(project.updatedAt),
+    changeFrequency: 'monthly' as const,
+    priority: 0.6,
+  })),
+]
 }
