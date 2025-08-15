@@ -1,14 +1,16 @@
-
 import ClientLayout from "@/components/ClientLayout";
 import type { Metadata, Viewport } from "next";
 
+const siteUrl = "https://nickdstudio.online";
+const phoneRaw = "+918209814681";
+const phoneDisplay = "+91 8209814681";
+const contactEmail = "contact@nickdstudio.online";
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://nickdstudio.online"),
+  metadataBase: new URL(siteUrl),
   title: {
-    // absolute: "Nick D Studio - Digital Marketing & Web Development Agency",
     default: "Nick D Studio - Digital Marketing & Web Development Agency",
     template: "%s | Nick D Studio",
-  
   },
   description:
     "Grow your business with Nick D Studio’s expert digital marketing, SEO, and web development services for maximum online impact.",
@@ -20,11 +22,11 @@ export const metadata: Metadata = {
     "best digital marketing agency",
     "creative agency",
     "web development",
-    "site template", 
+    "site template",
     "seo",
-    "responsive", 
-    "minimal", 
-    "saas", 
+    "responsive",
+    "minimal",
+    "saas",
     "HTML Template",
     "startup",
     "marketing",
@@ -38,23 +40,25 @@ export const metadata: Metadata = {
     "professional website development",
     "local seo services",
     "ecommerce marketing",
-    "ecommerce seo services"
+    "ecommerce seo services",
+    phoneDisplay,
+    contactEmail,
   ],
-  authors: [{ name: "Nick", url: "https://nickdstudio.online" }],
+  authors: [{ name: "Nick", url: siteUrl }],
   creator: "Nick D Studio",
   publisher: "Nick D Studio",
   formatDetection: {
-    email: false,
+    email: true,
     address: false,
-    telephone: false,
+    telephone: true,
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://nickdstudio.online",
+    url: siteUrl,
     title: "Nick D Studio - Expert Digital Marketing & Web Development",
     description:
-      "Boost your online presence with Nick D Studio’s tailored digital marketing, SEO, and web development services.",
+      "Boost your online presence with Nick D Studio’s tailored digital marketing, SEO, and web development services. Contact: +91 8209814681 | contact@nickdstudio.online",
     siteName: "Nick D Studio",
     images: [
       {
@@ -69,7 +73,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Nick D Studio - Digital Marketing & Web Development",
     description:
-      "Transform your business with Nick D Studio’s expert digital marketing and web development solutions.",
+      "Transform your business with Nick D Studio’s expert digital marketing and web development solutions. Contact: +91 8209814681 | contact@nickdstudio.online",
     images: ["/og-image.jpg"],
     creator: "@nickdstudio",
   },
@@ -85,7 +89,8 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: "your-google-verification-code",
+    // Replace these with real codes when available:
+    google: "google-site-verification=LzCGLduViVnltu982UyxEqqTNF03EAh45Thzxsmbrhw",
     yandex: "your-yandex-verification-code",
     yahoo: "your-yahoo-verification-code",
     other: {
@@ -94,7 +99,7 @@ export const metadata: Metadata = {
   },
   category: "Business",
   alternates: {
-    canonical: "https://nickdstudio.online",
+    canonical: "/",
   },
   icons: {
     icon: "/favicon.ico",
@@ -105,20 +110,26 @@ export const metadata: Metadata = {
       "@context": "https://schema.org",
       "@type": "Organization",
       name: "Nick D Studio",
-      url: "https://nickdstudio.online",
-      logo: "https://nickdstudio.online/logo.png",
-      contactPoint: {
-        "@type": "ContactPoint",
-        telephone: "+1-555-123-4567",
-        contactType: "Customer Service",
-        contactOption: "TollFree",
-        areaServed: "US",
-        availableLanguage: "English",
-      },
+      url: siteUrl,
+      logo: `${siteUrl}/logo.png`,
+      email: contactEmail,
+      telephone: phoneRaw,
+      contactPoint: [
+        {
+          "@type": "ContactPoint",
+          telephone: phoneRaw,
+          contactType: "Customer Service",
+          areaServed: "IN",
+          availableLanguage: ["Hindi"],
+          email: contactEmail,
+        },
+      ],
       sameAs: [
         "https://twitter.com/nickdstudio",
         "https://www.linkedin.com/company/nickdstudio",
         "https://www.facebook.com/nickdstudio",
+        "https://www.instagram.com/nickdstudio", // add if applicable
+        "https://www.youtube.com/@nickdstudio",  // add if applicable
       ],
     }),
   },
@@ -142,12 +153,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
-      <body
-      cz-shortcut-listen="true">
+      <body>
         <ClientLayout>{children}</ClientLayout>
       </body>
     </html>
   );
 }
-
-
