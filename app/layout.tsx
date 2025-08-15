@@ -6,6 +6,7 @@ const phoneRaw = "+918209814681";
 const phoneDisplay = "+91 8209814681";
 const contactEmail = "contact@nickdstudio.online";
 
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
@@ -125,10 +126,10 @@ export const metadata: Metadata = {
         },
       ],
       sameAs: [
-        "https://twitter.com/nickdstudio",
-        "https://www.linkedin.com/company/nickdstudio",
-        "https://www.facebook.com/nickdstudio",
-        "https://www.instagram.com/nickdstudio", // add if applicable
+        "https://x.com/nickdstudio",
+        "https://www.linkedin.com/in/nickdstudio",
+        "https://www.facebook.com/people/nickdstudio/61579142354563",
+        "https://www.instagram.com/nds_digital", // add if applicable
         "https://www.youtube.com/@nickdstudio",  // add if applicable
       ],
     }),

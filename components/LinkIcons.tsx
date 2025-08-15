@@ -1,14 +1,16 @@
 import Link from "next/link";
 import { FaInstagram, FaLinkedinIn, FaYoutube } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 import { GrFacebookOption } from "react-icons/gr";
 import { IoLogoWhatsapp } from "react-icons/io";
 
 export default function LinkIcons({ gap, effect2 }: { gap?: number; effect2?: boolean }) {
   const socialLinks = [
-    { href: "https://bit.ly/nds_digital", icon: <FaInstagram /> },
-    { href: "https://bit.ly/nds_digital_fb", icon: <GrFacebookOption /> },
+    { href: "https://www.instagram.com/nds_digital", icon: <FaInstagram /> },
+    { href: "https://www.facebook.com/people/nickdstudio/61579142354563", icon: <GrFacebookOption /> },
     { href: "https://www.youtube.com/@nickdstudio", icon: <FaYoutube /> },
-    { href: "https://bit.ly/nds_linkedin", icon: <FaLinkedinIn /> },
+    { href: "https://www.linkedin.com/in/nickdstudio", icon: <FaLinkedinIn /> },
+    { href: "https://x.com/nickdstudio", icon: <FaXTwitter /> },
     { href: "https://wa.me/918209814681?text=Hello%2C%20I%20want%20to%20book%20a%20consultation%20call.", icon: <IoLogoWhatsapp /> }, // WhatsApp direct chat link
   ];
 

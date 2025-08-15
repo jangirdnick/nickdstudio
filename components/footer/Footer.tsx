@@ -9,15 +9,17 @@ import { PiInstagramLogoFill } from "react-icons/pi";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 import Link from "next/link";
+import { FaXTwitter } from "react-icons/fa6";
 
 
 export default function Footer() {
 
     const socialLinks = [
-    { href: "https://bit.ly/nds_digital", icon: <PiInstagramLogoFill /> },
-    { href: "https://bit.ly/nds_digital_fb", icon: <GrFacebookOption /> },
+    { href: "https://www.instagram.com/nds_digital", icon: <PiInstagramLogoFill /> },
+    { href: "https://www.facebook.com/people/nickdstudio/61579142354563", icon: <GrFacebookOption /> },
     { href: "https://www.youtube.com/@nickdstudio", icon: <FaYoutube /> },
-    { href: "https://bit.ly/nds_linkedin", icon: <FaLinkedinIn /> },
+    { href: "https://www.linkedin.com/in/nickdstudio", icon: <FaLinkedinIn /> },
+    { href: "https://x.com/nickdstudio", icon: <FaXTwitter /> },
   ];
 
     const menuItems = [
