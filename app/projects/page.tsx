@@ -1,9 +1,18 @@
-'use client'
 
 import { LinkTextEffect } from '@/components/effect/useLinkTextEffect';
 import workData from '@/lib/WorkData.json';
+import { Metadata } from 'next';
 import Image from 'next/image';
 import { TbArrowUpRight } from 'react-icons/tb';
+
+const siteUrl = "https://nickdstudio.online";
+export const metadata: Metadata = {
+  title: "Projects",
+  description: "Explore Nick D Studio's digital marketing & web development projects. View our portfolio of successful websites, campaigns & client solutions.",
+  alternates: {
+    canonical: `${siteUrl}/projects`,
+  },
+};
 
 interface WorkItem {
   image: { src: string; alt: string };

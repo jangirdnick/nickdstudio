@@ -1,9 +1,19 @@
-'use client'
+
 
 import { LinkTextEffect } from "@/components/effect/useLinkTextEffect"
 import LinkIcons from "@/components/LinkIcons"
+import { Metadata } from "next";
 import Link from "next/link"
 import { SiMailgun } from "react-icons/si"
+
+const siteUrl = "https://nickdstudio.online";
+export const metadata: Metadata = {
+  title: "Terms & Conditions",
+  description: "Nick D Studio Terms & Conditions: Review our service agreements, usage policies & client responsibilities for digital marketing & web development.",
+  alternates: {
+    canonical: `${siteUrl}/terms-conditions`,
+  },
+};
 
 export default function Page() {
   return (

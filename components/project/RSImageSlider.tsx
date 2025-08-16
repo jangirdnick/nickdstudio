@@ -1,6 +1,9 @@
+'use client'
+
 import Image from 'next/image';
 import { useRef } from 'react';
 import { CgArrowLeft, CgArrowRight } from 'react-icons/cg';
+
 
 
 interface responsiveImageProps {

@@ -1,9 +1,20 @@
-'use client'
+
 
 import { LinkTextEffect } from "@/components/effect/useLinkTextEffect"
 import LinkIcons from "@/components/LinkIcons"
+import { Metadata } from "next"
 import Link from "next/link"
 import { SiMailgun } from "react-icons/si"
+
+const siteUrl = "https://nickdstudio.online";
+export const metadata: Metadata = {
+  title: "Privacy Policy",
+  description: "Nick D Studio Privacy Policy: Learn how we protect your data & personal information. Transparent privacy practices for digital marketing clients.",
+  alternates: {
+    canonical: `${siteUrl}/privacy-policy`,
+  },
+};
+
 
 export default function Page() {
   return (

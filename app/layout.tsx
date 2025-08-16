@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
     default: "Nick D Studio - Digital Marketing & Web Development Agency",
-    template: "%s | Nick D Studio",
+    template: "%s | Nick D Studio - Digital Marketing & Web Development Agency",
   },
   description:
     "Grow your business with Nick D Studio’s expert digital marketing, SEO, and web development services for maximum online impact.",
@@ -48,11 +48,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Nick", url: siteUrl }],
   creator: "Nick D Studio",
   publisher: "Nick D Studio",
-  formatDetection: {
-    email: true,
-    address: false,
-    telephone: true,
-  },
+  formatDetection: { email: true, address: false, telephone: true },
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -90,17 +86,14 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    // Replace these with real codes when available:
     google: "google-site-verification=LzCGLduViVnltu982UyxEqqTNF03EAh45Thzxsmbrhw",
     yandex: "your-yandex-verification-code",
     yahoo: "your-yahoo-verification-code",
-    other: {
-      bing: "your-bing-verification-code",
-    },
+    other: { bing: "your-bing-verification-code" },
   },
   category: "Business",
   alternates: {
-    canonical: "/",
+    canonical: "/", // homepage canonical only
   },
   icons: {
     icon: "/favicon.ico",
@@ -121,7 +114,7 @@ export const metadata: Metadata = {
           telephone: phoneRaw,
           contactType: "Customer Service",
           areaServed: "IN",
-          availableLanguage: ["Hindi"],
+          availableLanguage: ["Hindi", "English"],
           email: contactEmail,
         },
       ],
@@ -129,12 +122,22 @@ export const metadata: Metadata = {
         "https://x.com/nickdstudio",
         "https://www.linkedin.com/in/nickdstudio",
         "https://www.facebook.com/people/nickdstudio/61579142354563",
-        "https://www.instagram.com/nds_digital", // add if applicable
-        "https://www.youtube.com/@nickdstudio",  // add if applicable
+        "https://www.instagram.com/nds_digital",
+        "https://www.youtube.com/@nickdstudio",
+      ],
+      hasPart: [
+        { "@type": "WebPage", url: `${siteUrl}/contact`, name: "Contact" },
+        { "@type": "WebPage", url: `${siteUrl}/services`, name: "Services" },
+        { "@type": "WebPage", url: `${siteUrl}/projects`, name: "Projects" },
+        { "@type": "WebPage", url: `${siteUrl}/terms-conditions`, name: "Terms & Conditions" },
+        { "@type": "WebPage", url: `${siteUrl}/privacy-policy`, name: "Privacy Policy" },
+        { "@type": "WebPage", url: `${siteUrl}/coming-soon`, name: "Coming Soon" },
+        { "@type": "WebPage", url: `${siteUrl}/sitemap-policy`, name: "Sitemap Policy" },
       ],
     }),
   },
 };
+
 
 export const viewport: Viewport = {
   width: "device-width",

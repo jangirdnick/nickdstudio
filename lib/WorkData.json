@@ -41,7 +41,7 @@
       "link": "https://rodiwal.in"
     }
   ],
-  "AllWork": [
+"AllWork": [
     {
       "image": {
         "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/decorewala_hbnsdv.png",
@@ -50,6 +50,7 @@
       "title": "Decorewala",
       "tag": ["development", "ui/ux", "FB Ads"],
       "overview": "Integrated Google Search Console for site indexing and performance tracking. Performed complete on-page, off-page, and product SEO using RankMath. Optimized all website and product images using WebP and lazy loading for faster performance. Developed the website on WordPress using a premium theme and Elementor for custom page building. Configured and customized WooCommerce for smooth product listing and order processing. Installed and set up essential plugins for SEO, performance, security, and user experience. Implemented custom code where needed to enhance design and functionality. Managed and optimized targeted Facebook Ads campaigns for traffic and conversions. Handled ongoing website maintenance, plugin updates, and WordPress management.",
+      "challenges": "Decorewala faced the challenge of creating a premium furniture eCommerce platform that could effectively showcase large furniture pieces with high-quality imagery while maintaining fast loading speeds. The main obstacles included implementing complex furniture categorization systems, managing multiple product variants (colors, sizes, materials), and creating an intuitive user experience for customers shopping for home decor items. Additional challenges involved optimizing heavy furniture product images without compromising visual quality, developing effective shipping cost calculators for bulky items, implementing furniture-specific filters and search functionality, and creating targeted Facebook Ad campaigns that could effectively communicate furniture quality and craftsmanship to drive qualified traffic and conversions.",
       "targetLink": "/projects/decorewala",
       "link": "https://decorewala.com/",
       "date": "February 26, 2025",
@@ -125,11 +126,12 @@
     {
       "image": {
         "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/misan_fjaoph.png",
-        "alt": "Misan fashion eCommerce website homepage with minimalist UI"
+        "alt": "Misan furniture eCommerce website homepage with minimalist UI"
       },
       "title": "Misan",
       "tag": ["development", "ui/ux", "FB Ads"],
-      "overview": "For Misan Es, we delivered a full-scale eCommerce solution designed for performance, visibility, and growth. Starting with Google Search Console integration, we ensured proper indexing and real-time tracking of the site’s search health. The website was crafted using WordPress, paired with a premium theme and Elementor for custom, responsive design. WooCommerce was configured to handle product listings, cart functionality, and order flow with ease. We also implemented and fine-tuned multiple plugins for security, speed, SEO, and user engagement. On the marketing front, we executed a robust SEO strategy—including on-page optimization, off-page link building, and detailed product-level SEO. All visuals were image-optimized to enhance load times and user experience. To fuel brand reach and conversions, we also planned and managed high-performing Facebook Ads campaigns, targeting key customer segments with compelling creatives and audience-specific messaging. Our team ensured end-to-end support, including custom code enhancements, plugin management, and continuous WordPress maintenance to keep the site running smoothly.",
+      "overview": "For Misan Es, we delivered a full-scale eCommerce solution designed for performance, visibility, and growth. Starting with Google Search Console integration, we ensured proper indexing and real-time tracking of the site's search health. The website was crafted using WordPress, paired with a premium theme and Elementor for custom, responsive design. WooCommerce was configured to handle product listings, cart functionality, and order flow with ease. We also implemented and fine-tuned multiple plugins for security, speed, SEO, and user engagement. On the marketing front, we executed a robust SEO strategy—including on-page optimization, off-page link building, and detailed product-level SEO. All visuals were image-optimized to enhance load times and user experience. To fuel brand reach and conversions, we also planned and managed high-performing Facebook Ads campaigns, targeting key customer segments with compelling creatives and audience-specific messaging. Our team ensured end-to-end support, including custom code enhancements, plugin management, and continuous WordPress maintenance to keep the site running smoothly.",
+      "challenges": "Misan faced the challenge of establishing a strong presence in the competitive furniture eCommerce market with a focus on creating a minimalist yet functional design. The key obstacles included developing an efficient furniture inventory management system, creating detailed product specifications display for furniture pieces, and implementing advanced search filters for furniture categories (room type, material, size, style). The challenge extended to optimizing large furniture product images for fast mobile loading, creating an intuitive furniture comparison feature, handling complex shipping calculations for furniture delivery, and developing effective Facebook Ad campaigns targeting furniture buyers with compelling room setup visuals and lifestyle imagery that would drive qualified leads and conversions.",
       "targetLink": "/projects/misan",
       "link": "https://misan.in",
       "date": "December 18, 2024",
@@ -152,19 +154,19 @@
       "decptopImage": [
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/misan_fjaoph.png",
-          "alt": "Misan homepage hero highlighting apparel and accessories"
+          "alt": "Misan homepage hero highlighting furniture and home accessories"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919353/IDMIS2_wmvo9v.png",
-          "alt": "Misan category page for fashion clothing and accessories"
+          "alt": "Misan category page for furniture collections and home decor"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919351/IDMIS3_peutnh.png",
-          "alt": "Misan product grid with optimized images and quick view"
+          "alt": "Misan product grid with optimized furniture images and quick view"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919349/IDMIS4_yevtwv.png",
-          "alt": "Misan product detail page with size options and gallery"
+          "alt": "Misan product detail page with furniture specifications and gallery"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919358/IDMIS5_mxjmbw.png",
@@ -172,11 +174,11 @@
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919353/IDMIS6_jnyslb.png",
-          "alt": "Misan Elementor section with featured banners"
+          "alt": "Misan Elementor section with featured furniture banners"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919354/IDMIS7_x7weob.png",
-          "alt": "Misan promotional hero banner for seasonal sale"
+          "alt": "Misan promotional hero banner for furniture seasonal sale"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919361/IDMIS8_jk2sry.png",
@@ -186,19 +188,19 @@
       "responsiveImage": [
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647769/IRMIS1_cy2izw.jpg",
-          "alt": "Misan mobile homepage with hero and categories"
+          "alt": "Misan mobile homepage with hero and furniture categories"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647768/IRMIS2_zq67gv.jpg",
-          "alt": "Misan mobile product list with filters"
+          "alt": "Misan mobile furniture product list with filters"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647765/IRMIS3_nmbu2c.jpg",
-          "alt": "Misan mobile product detail with image gallery"
+          "alt": "Misan mobile furniture product detail with image gallery"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647768/IRMIS4_qmdjfc.jpg",
-          "alt": "Misan mobile cart and order summary"
+          "alt": "Misan mobile cart and furniture order summary"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647768/IRMIS5_c0efwn.jpg",
@@ -213,11 +215,12 @@
     {
       "image": {
         "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/vinayakartplace_r4pylx.png",
-        "alt": "Vinayakartplace premium eCommerce website with classic design"
+        "alt": "Vinayakartplace premium furniture eCommerce website with classic design"
       },
       "title": "Vinayakartplace",
       "tag": ["development", "ui/ux", "FB Ads"],
       "overview": "Vinayakartplace is an eCommerce platform built to deliver a smooth shopping experience with a classic and premium design aesthetic. Developed using WordPress with a premium theme and Elementor, the site features a clean, elegant layout tailored for user engagement. WooCommerce was set up for seamless product and order management, and essential plugins were configured for performance, SEO, and security. We carried out complete SEO implementation including on-page, off-page, and product-level optimization using RankMath. High-resolution images were compressed and lazy-loaded to ensure fast loading times. Google Search Console was integrated for indexing and performance tracking. To drive traffic and conversions, we launched targeted Facebook Ads campaigns with audience-specific strategies. Custom code enhancements were also applied to fine-tune the site's functionality, and ongoing WordPress management was handled to keep the platform optimized and up to date.",
+      "challenges": "Vinayakartplace faced the challenge of creating a premium furniture eCommerce platform that could compete in the established furniture market while maintaining classical design aesthetics. The primary obstacles included developing a robust furniture catalog management system with detailed product specifications, implementing complex furniture variant options (materials, finishes, dimensions), and creating an elegant user interface that could showcase premium furniture pieces effectively. Additional challenges involved optimizing high-resolution furniture images for fast loading across devices, developing custom shipping calculators for furniture delivery zones, implementing furniture-specific SEO strategies to compete with established brands, and creating targeted Facebook Ad campaigns that could effectively communicate premium furniture quality and craftsmanship to drive qualified traffic and conversions in a competitive marketplace.",
       "targetLink": "/projects/vinayakartplace",
       "link": "https://vinayakartplace.com",
       "date": "April 20, 2025",
@@ -240,19 +243,19 @@
       "decptopImage": [
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1755015109/vinayakartplace_r4pylx.png",
-          "alt": "Vinayakartplace homepage hero with classic premium layout"
+          "alt": "Vinayakartplace homepage hero with classic premium furniture layout"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919363/IDVIN2_hdiph4.png",
-          "alt": "Vinayakartplace category grid for curated products"
+          "alt": "Vinayakartplace category grid for curated furniture products"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919363/IDVIN3_mmk6uz.png",
-          "alt": "Vinayakartplace product listing with clean UI and fast images"
+          "alt": "Vinayakartplace furniture product listing with clean UI and fast images"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919343/IDVIN4_hwd6fd.png",
-          "alt": "Vinayakartplace product detail page with gallery and specifications"
+          "alt": "Vinayakartplace furniture product detail page with gallery and specifications"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919348/IDVIN5_qaibk7.png",
@@ -260,7 +263,7 @@
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919345/IDVIN6_b5bjkq.png",
-          "alt": "Vinayakartplace Elementor sections with featured collections"
+          "alt": "Vinayakartplace Elementor sections with featured furniture collections"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754919346/IDVIN7_wqunts.png",
@@ -270,19 +273,19 @@
       "responsiveImage": [
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647772/IRVIY1_kdxv7n.jpg",
-          "alt": "Vinayakartplace mobile homepage hero and categories"
+          "alt": "Vinayakartplace mobile homepage hero and furniture categories"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY2_bo3ljp.jpg",
-          "alt": "Vinayakartplace mobile product grid with filters"
+          "alt": "Vinayakartplace mobile furniture product grid with filters"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY3_kbcgty.jpg",
-          "alt": "Vinayakartplace mobile product detail with image slider"
+          "alt": "Vinayakartplace mobile furniture product detail with image slider"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY4_rvtwjh.jpg",
-          "alt": "Vinayakartplace mobile cart and order flow"
+          "alt": "Vinayakartplace mobile cart and furniture order flow"
         },
         {
           "src": "https://res.cloudinary.com/dbbpe98lt/image/upload/v1754647773/IRVIY5_frmrjw.jpg",
@@ -301,7 +304,8 @@
       },
       "title": "Rodiwal",
       "tag": ["development", "ui/ux", "FB Ads"],
-      "overview": "Rodiwal is a furniture-focused eCommerce website developed on WordPress with a simple yet highly functional design that delivers a premium user experience. While the layout remains minimal and user-friendly, we incorporated advanced elements like embedded videos to showcase product information and educate customers. Built using a premium theme and Elementor, the site features custom functionalities that elevate both design and usability. WooCommerce was implemented for full eCommerce capabilities, and several plugins were configured for performance, SEO, security, and enhanced interactivity. We performed complete SEO (on-page, off-page, and product-level), optimized all images and media files, and integrated Google Search Console for monitoring. Facebook Ads campaigns were also launched to generate traffic and conversions. Additionally, major custom changes were made across the site to tailor the platform specifically to Rodiwal’s branding and content strategy, ensuring a smooth and informative shopping experience.",
+      "overview": "Rodiwal is a furniture-focused eCommerce website developed on WordPress with a simple yet highly functional design that delivers a premium user experience. While the layout remains minimal and user-friendly, we incorporated advanced elements like embedded videos to showcase product information and educate customers. Built using a premium theme and Elementor, the site features custom functionalities that elevate both design and usability. WooCommerce was implemented for full eCommerce capabilities, and several plugins were configured for performance, SEO, security, and enhanced interactivity. We performed complete SEO (on-page, off-page, and product-level), optimized all images and media files, and integrated Google Search Console for monitoring. Facebook Ads campaigns were also launched to generate traffic and conversions. Additionally, major custom changes were made across the site to tailor the platform specifically to Rodiwal's branding and content strategy, ensuring a smooth and informative shopping experience.",
+      "challenges": "Rodiwal faced the unique challenge of creating an educational and engaging wooden furniture shopping experience while maintaining simplicity and performance. The main obstacles included integrating embedded product videos showcasing furniture craftsmanship without compromising site speed, developing custom functionalities to highlight wood quality and manufacturing processes, and creating an intuitive user experience for customers to understand furniture specifications and materials. Additional challenges involved optimizing large media files (furniture images and craft videos) for fast loading, implementing advanced furniture-specific SEO strategies for a niche wooden furniture market, developing custom code solutions for furniture customization options, and creating Facebook Ad campaigns that effectively communicated the quality and craftsmanship of handcrafted wooden furniture through strategic visual storytelling and targeted audience engagement.",
       "targetLink": "/projects/rodiwal",
       "link": "https://rodiwal.in",
       "date": "Jun 5, 2025",
