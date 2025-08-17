@@ -35,7 +35,7 @@ export default function Hero() {
 
 
         <div className="w-full h-full relative brightness-[.95] contrast-[1.15]">
-        <video poster={'/vt1.png'}  className="w-full h-full object-cover blur-md" playsInline/>
+        <video poster={'https://res.cloudinary.com/dbbpe98lt/image/upload/v1755419277/nds_introduction_thumb_qnssnv.png'}  className="w-full h-full object-cover blur-md" playsInline/>
          <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
           <div 
           onClick={() => SetVplay(!vlapy)}
