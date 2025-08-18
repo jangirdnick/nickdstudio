@@ -123,7 +123,7 @@ export const metadata: Metadata = {
       ],
       sameAs: [
         "https://x.com/nickdstudio",
-        "https://www.linkedin.com/in/nickdstudio",
+        "https://www.linkedin.com/groups/14792060/",
         "https://www.facebook.com/people/nickdstudio/61579142354563",
         "https://www.instagram.com/nds_digital",
         "https://www.youtube.com/@nickdstudio",

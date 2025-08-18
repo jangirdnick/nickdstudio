@@ -18,7 +18,7 @@ export default function Footer() {
     { href: "https://www.instagram.com/nds_digital", icon: <PiInstagramLogoFill /> },
     { href: "https://www.facebook.com/people/nickdstudio/61579142354563", icon: <GrFacebookOption /> },
     { href: "https://www.youtube.com/@nickdstudio", icon: <FaYoutube /> },
-    { href: "https://www.linkedin.com/in/nickdstudio", icon: <FaLinkedinIn /> },
+    { href: "https://www.linkedin.com/groups/14792060/", icon: <FaLinkedinIn /> },
     { href: "https://x.com/nickdstudio", icon: <FaXTwitter /> },
   ];
 

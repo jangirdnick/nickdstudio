@@ -9,7 +9,7 @@ export default function LinkIcons({ gap, effect2 }: { gap?: number; effect2?: bo
     { href: "https://www.instagram.com/nds_digital", icon: <FaInstagram /> },
     { href: "https://www.facebook.com/people/nickdstudio/61579142354563", icon: <GrFacebookOption /> },
     { href: "https://www.youtube.com/@nickdstudio", icon: <FaYoutube /> },
-    { href: "https://www.linkedin.com/in/nickdstudio", icon: <FaLinkedinIn /> },
+    { href: "https://www.linkedin.com/groups/14792060/", icon: <FaLinkedinIn /> },
     { href: "https://x.com/nickdstudio", icon: <FaXTwitter /> },
     { href: "https://wa.me/918209814681?text=Hello%2C%20I%20want%20to%20book%20a%20consultation%20call.", icon: <IoLogoWhatsapp /> }, // WhatsApp direct chat link
   ];
