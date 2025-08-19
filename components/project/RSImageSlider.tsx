@@ -63,7 +63,7 @@ export default function RSImageSlider({ responsiveImage }: responsiveImageProps)
 
       <div
         ref={sliderRef}
-        className='w-full flex gap-4 overflow-x-scroll scroll-smooth scrollbar-hide rounded-2xl md:rounded-4xl ease-in-out duration-200'
+        className='w-full flex gap-4 overflow-x-scroll no-scrollbar scroll-smooth scrollbar-hide rounded-2xl md:rounded-4xl ease-in-out duration-200'
       >
         {responsiveImage.length > 0 ? (
           responsiveImage.map((img, i) => (

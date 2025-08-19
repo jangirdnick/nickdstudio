@@ -10,7 +10,7 @@ interface CardProps {
 export default function Card({ children, cardInfo }: CardProps) {
 
   return (
-        <div className=' shrink-0 relative z-[1] w-[60vw] md:w-[40%] lg:w-[33%] px-5 xl:px-10 py-5 md:py-8 xl:py-12 border border-orange-400 rounded-4xl text-black bg-orange-400 backdrop-blur-lg shadow-inner shadow-orange-300 overflow-hidden'>
+        <div className=' shrink-0 relative z-[1] w-[70vw] md:w-[40%] lg:w-[33%] px-5 xl:px-10 py-5 md:py-8 xl:py-12 border border-orange-400 rounded-4xl text-black bg-orange-400 backdrop-blur-lg shadow-inner shadow-orange-300 overflow-hidden'>
             
             <div className='absolute top-0 left-0 z-[-2] w-full h-full flex flex-col items-center justify-center'>
             <motion.div 

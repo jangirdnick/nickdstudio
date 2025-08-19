@@ -116,7 +116,7 @@ export default function ProjectView({
           </div>
 
           <div>
-            <p className='text-[4vw] md:text-[1.3em] xl:text-[2.1em] text-zinc-500 font-[f1] font-medium'>
+            <p className='text-[3.2vw] md:text-[1.3em] xl:text-[2.1em] text-zinc-500 font-[f1] font-medium text-balance max-lg:tracking-[0.03rem]'>
               {matchedWork.overview}
             </p>
           </div>
@@ -137,13 +137,13 @@ export default function ProjectView({
         </div>
 
         <div className='w-full h-fit pt-[14vw] md:pt-[11vw] flex flex-col gap-y-10 md:gap-y-20'>
-          <h2 className='relative w-fit mx-auto text-[6.4vw] md:text-[5.1vw] xl:text-[5vw] text-zinc-300 font-[f1] font-medium leading-[1] scale-x-[1.3] md:scale-x-[1.2] xl:scale-x-[1.15]'>
+          <h2 className='relative w-fit mx-auto text-[6.5vw] md:text-[5.1vw] xl:text-[5vw] text-zinc-300 font-[f1] font-medium leading-[1] max-lg:scale-y-[1.1] scale-x-[1.4] md:scale-x-[1.2] xl:scale-x-[1.15]'>
             Creative process
             <span className='block absolute top-1/2 -translate-y-1/2 -left-[5%] w-1/3 h-[200%] bg-black/50 blur-lg'></span>
             <span className='block absolute top-1/2 -translate-y-1/2 -right-[5%] w-1/3 h-[200%] bg-black/50 blur-lg'></span>
           </h2>
 
-          <div className='w-full flex flex-nowrap justify-between max-lg:gap-4 max-lg:overflow-x-scroll'>
+          <div className='w-full flex flex-nowrap justify-between max-lg:gap-4 max-lg:overflow-x-scroll scroll-smooth no-scrollbar'>
             <Card cardInfo={matchedWork.discovery}>
               <TbWorldSearch />
             </Card>
@@ -163,7 +163,7 @@ export default function ProjectView({
             Initial concepts
           </h3>
 
-          <div className='w-full pt-0 md:pt-8 xl:pt-10 flex items-start justify-start overflow-x-scroll'>
+          <div className='w-full pt-0 md:pt-8 xl:pt-10 flex items-start justify-start overflow-x-scroll scroll-smooth no-scrollbar'>
             <HoverExpand
               images={matchedWork.decptopImage}
               initialSelectedIndex={3}
@@ -175,13 +175,13 @@ export default function ProjectView({
         <RSImageSlider responsiveImage={matchedWork.responsiveImage} />
 
         <div className='w-full pt-20 lg:py-20 flex justify-between max-lg:flex-col max-lg:gap-8'>
-          <div className='w-fit flex lg:flex-col gap-8 max-lg:items-center'>
+          <div className='w-full lg:w-fit flex max-lg:justify-between lg:flex-col gap-8 max-lg:items-center'>
             <h3 className='text-[5.2vw] md:text-[3vw] lg:text-[1.8em] xl:text-[2.4em] font-[f1] font-semibold leading-[1]'>
               The Challenges
             </h3>
             
-            <div className='translate-x-16 xl:translate-x-5 max-md:scale-[.8] max-xl:scale-[.85]'>
-              <Button title='View More' link={matchedWork.link} />
+            <div className='-translate-x-3 lg:translate-x-5 max-md:scale-[.8] max-xl:scale-[.85]'>
+              <Button title='View Project' link={matchedWork.link} />
             </div>
           </div>
 

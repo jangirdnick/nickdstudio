@@ -40,14 +40,15 @@ export default function Header() {
       if (touchStartX !== 0 && touchEndX !== 0) {
 
       const swipeDistance = touchStartX - touchEndX;
+      
 
       // Swipe left → open menu
-      if (swipeDistance > 160 && !isClicked) {
+      if (swipeDistance > 220 && !isClicked) {
         setIsClicked(true);
       }
 
       // Swipe right → close menu
-      if (swipeDistance < -160 && isClicked) {
+      if (swipeDistance < -220 && isClicked) {
         setIsClicked(false);
       }
     }
