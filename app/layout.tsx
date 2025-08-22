@@ -42,8 +42,6 @@ export const metadata: Metadata = {
     "local seo services",
     "ecommerce marketing",
     "ecommerce seo services",
-    phoneDisplay,
-    contactEmail,
   ],
   authors: [{ name: "Nick", url: siteUrl }],
   creator: "Nick D Studio",
