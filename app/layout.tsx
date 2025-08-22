@@ -3,7 +3,6 @@ import type { Metadata, Viewport } from "next";
 
 const siteUrl = "https://nickdstudio.online";
 const phoneRaw = "+918209814681";
-const phoneDisplay = "+91 8209814681";
 const contactEmail = "contact@nickdstudio.online";
 
 
