@@ -39,6 +39,15 @@ interface WorkItem {
   }[];
 }
 
+export const generateStaticParams = async () => {
+  // Import your work data
+  const AllWork: WorkItem[] = workData.AllWork;
+  
+  // Map through all work items to generate slug parameters
+  return AllWork.map((work: WorkItem) => ({
+    slug: work.title.toLowerCase()
+  }));
+};
 // Generate metadata function for dynamic routes
 export async function generateMetadata({
   params,
@@ -193,3 +202,5 @@ export default function ProjectView({
     </section>
   );
 }
+
+

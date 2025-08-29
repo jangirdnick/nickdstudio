@@ -22,6 +22,8 @@ interface WorkItem {
   link: string;
 }
 
+
+
 export default function Page() {
   const AllWork: WorkItem[] = workData.AllWork;
 
