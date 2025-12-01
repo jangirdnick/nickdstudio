@@ -15,6 +15,8 @@ export const metadata: Metadata = {
   description:
     "Grow your business with Nick D Studio’s expert digital marketing, SEO, and web development services for maximum online impact.",
   keywords: [
+    "nickdstudio",
+    "Nick d studio",
     "digital marketing company",
     "digital marketing agency",
     "Best digital marketing company",
